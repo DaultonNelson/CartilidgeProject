@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
+  m_Name: ClosedShap
+  m_EditorClassIdentifier: 
+  m_Angles:
+  - m_Start: -45
+    m_End: 45
+    m_Order: 4
+    m_Sprites:
+    - {fileID: -1375424966714935398, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_Start: -135
+    m_End: -45
+    m_Order: 3
+    m_Sprites:
+    - {fileID: 21300000, guid: 95c1abd6a47dea74fa5ddd5f263c59dd, type: 3}
+  - m_Start: 135
+    m_End: 225
+    m_Order: 2
+    m_Sprites:
+    - {fileID: 4836281069130748719, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_Start: 45
+    m_End: 135
+    m_Order: 1
+    m_Sprites:
+    - {fileID: 21300000, guid: 95c1abd6a47dea74fa5ddd5f263c59dd, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: 9a82003722a5b114ebe112e5e26912f4, type: 3}
+  m_CornerSprites:
+  - m_CornerType: 0
+    m_Sprites:
+    - {fileID: 1253445008703611681, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 1
+    m_Sprites:
+    - {fileID: -7903424809330212223, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 2
+    m_Sprites:
+    - {fileID: 3524406474308671712, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 3
+    m_Sprites:
+    - {fileID: -1026917405828498239, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 4
+    m_Sprites:
+    - {fileID: 6100389653578636390, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 5
+    m_Sprites:
+    - {fileID: -1268070015232221697, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 6
+    m_Sprites:
+    - {fileID: -2170017969645760376, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  - m_CornerType: 7
+    m_Sprites:
+    - {fileID: -6157501430186149434, guid: 312d5e39de5b5e644a546f415feed5f5, type: 3}
+  m_FillOffset: 0
+  m_UseSpriteBorders: 1
